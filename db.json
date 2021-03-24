@@ -1,0 +1,22 @@
+"users":[
+  { "id": "1",
+      "firstname": "Ardak",
+       "lastname":"Nurseit",
+      "age":"18"},
+  {"id": "2",
+      "firstname": "Ersultan",
+       "lastname":"Kurman",
+      "age":"20"},
+  {"id": "3",
+      "firstname": "Zhasik",
+       "lastname":"Zhalish",
+      "age":"21"},
+  {"id": "4",
+      "firstname": "Sanzhar",
+       "lastname":"Sailaubek",
+      "age":"18"},
+  {"id": "5",
+      "firstname": "Darya",
+       "lastname":"Sekerbek",
+      "age":"18"}
+]
